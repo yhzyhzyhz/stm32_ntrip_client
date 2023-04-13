@@ -1,6 +1,6 @@
 # STM32 NTRIP Client
 
-Based on NUCLEO-STM32F767Zi board.
+Based on NUCLEO-STM32F767ZI board.
 Using FreeRTOS and LWIP netconn API.
 
 LD1 (Yellow) indicate NTRIP client is running
